@@ -9,28 +9,26 @@ The concept was inspired by bioelectric impedance and the natural capacitive pro
 ## Key Features
 Single ESP32 signal generator and oscilloscope using ADC pins
 
-Real-time FFT-based frequency detection with noisy signal correction
+- Real-time FFT-based frequency detection with noisy signal correction
 
-Button-based frequency control with LED and 7-segment display feedback
+- Button-based frequency control with LED and 7-segment display feedback
 
-Organic signal transmission testing with vegetables and human tissue
+- Organic signal transmission testing with vegetables and human tissue
 
-Automated frequency sweep from 10–500 Hz and response plotting
+- Automated frequency sweep from 10–500 Hz and response plotting
 
-Optimized sampling strategy for low-power, high-accuracy FFT
+- Optimized sampling strategy for low-power, high-accuracy FFT
 
 ## Hardware Used
 ESP32-WROVER Module
 
-7-Segment Display
+- 7-Segment Display
 
-Push Buttons (x2)
+- Push Buttons (x2)
 
-Red/Green LED
+- Red/Green LED
 
-Various Vegetables (e.g., cucumber, bell pepper, spinach)
-
-Optional: AC measurement setup for voltage/current sensing
+- Various Vegetables (e.g., cucumber, bell pepper, spinach)
 
 ## System Architecture
 ### Signal Loop
@@ -56,42 +54,42 @@ Tested 7+ vegetables from the UCLA dining hall
 
 [Link Text]([https://www.example.com](https://docs.google.com/spreadsheets/d/1GZVQGATylODmYl98VlQH3n5RBUiA5maYAZOY3CioH1s/edit?gid=0#gid=0))
 
-All supported AC signal transmission at 3.3V
+- All supported AC signal transmission at 3.3V
 
-Voltage attenuation increased with frequency → capacitive behavior
+- Voltage attenuation increased with frequency → capacitive behavior
 
-Detected signals across human wrist and even opposite hands
+- Detected signals across human wrist and even opposite hands
 
-Caution: Human testing raises safety concerns due to current paths through the torso
+- Caution: Human testing raises safety concerns due to current paths through the torso
 
 ## Technical Highlights
-112% Gain Correction: Compensated for ADC hardware inaccuracies
+- 112% Gain Correction: Compensated for ADC hardware inaccuracies
 
-Nyquist Compliance: Max frequency = 1024 Hz for 2048 Hz sample rate
+- Nyquist Compliance: Max frequency = 1024 Hz for 2048 Hz sample rate
 
-Frequency Input: Controlled with buttons in ±10 Hz steps
+- Frequency Input: Controlled with buttons in ±10 Hz steps
 
-Visual Feedback: 7-segment display + bi-color LED
+- Visual Feedback: 7-segment display + bi-color LED
 
 ## Future Work
-Apply bioimpedance principles for health sensing (e.g., hydration, muscle mass)
+- Apply bioimpedance principles for health sensing (e.g., hydration, muscle mass)
 
-Expand to multi-frequency modulation for data encoding
+- Expand to multi-frequency modulation for data encoding
 
-Explore other conductive organic and biological materials
+- Explore other conductive organic and biological materials
 
-Implement wireless feedback or logging
+- Implement wireless feedback or logging
 
 ## Code and Scripts
 The code on this repository includes:
 
-Signal generation logic
+- Signal generation logic
 
-ADC capture + FFT implementation
+- ADC capture + FFT implementation
 
-Sweep automation script
+- Sweep automation script
 
-Display and LED interface
+- Display and LED interface
 
 ## Disclaimer
 This project involves low-voltage AC signals applied to living tissue. Do not attempt body-based transmission without understanding electrical safety and the associated risks.
