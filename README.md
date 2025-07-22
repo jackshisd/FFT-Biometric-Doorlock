@@ -15,6 +15,6 @@ Here is a picture of the FFT signal recognition device receiving a signal throug
 
 **Video Demonstration**
 
-[Video Title](IMG_3596_compressed.mp4)
+[User Input Demonstration](IMG_3596_compressed.mp4)
 
-[Video Title](IMG_3604_compressed.mp4)
+[Detected Frequency Demonstration](IMG_3604_compressed.mp4)
