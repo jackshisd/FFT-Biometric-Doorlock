@@ -6,18 +6,18 @@ This project explores the feasibility of transmitting and decoding signals throu
 
 The concept was inspired by bioelectric impedance and the natural capacitive properties of high-water-content organic material.
 
-## 🧷 Schematic for Wiring
+## Schematic for Wiring
 
 <img src="FFT_schematic.png" alt="FFT Schematic" width="400"/>
 
-## 🥗 Reference Picture
+## Reference Picture
 
 <img src="radish.jpg" alt="Radish Demo" width="400"/>
 
 Here is a picture of the FFT signal recognition device receiving a signal through a radish.  
 The detected frequency can be used along with multimeter measurements to calculate the **impedance of the radish and other vegetables**.
 
-## 🎥 Video Demonstration
+## Video Demonstration
 
 - [▶️ User Input Demonstration](IMG_3596_compressed.mp4)  
 - [▶️ Detected Frequency Demonstration](IMG_3604_compressed.mp4)
