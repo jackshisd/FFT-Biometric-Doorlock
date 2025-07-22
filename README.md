@@ -9,10 +9,12 @@ Codebase for a biometric door lock system using FFT signal recognition. Includes
 
 **Reference Picture**
 
-![alt text](radish.png)
+![alt text](radish.jpg)
 
 Here is a picture of the FFT signal recognition device receiving a signal through a radish. The frequency values can be used with the measurements from a multimeter to calculate the impedance of the radish and other vegetables.
 
 **Video Demonstration**
 
-[Video Title](path/to/your/video.mp4)
+[Video Title](IMG_3596_compressed.mp4)
+
+[Video Title](IMG_3604_compressed.mp4)
