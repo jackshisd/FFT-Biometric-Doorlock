@@ -6,6 +6,27 @@ This project explores the feasibility of transmitting and decoding signals throu
 
 The concept was inspired by bioelectric impedance and the natural capacitive properties of high-water-content organic material.
 
+## 🧷 Schematic for Wiring
+
+<img src="FFT_schematic.png" alt="FFT Schematic" width="400"/>
+
+---
+
+## 🥗 Reference Picture
+
+<img src="radish.jpg" alt="Radish Demo" width="400"/>
+
+Here is a picture of the FFT signal recognition device receiving a signal through a radish.  
+The detected frequency can be used along with multimeter measurements to calculate the **impedance of the radish and other vegetables**.
+
+---
+
+## 🎥 Video Demonstration
+
+- [▶️ User Input Demonstration](IMG_3596_compressed.mp4)  
+- [▶️ Detected Frequency Demonstration](IMG_3604_compressed.mp4)
+
+
 ## Key Features
 Single ESP32 signal generator and oscilloscope using ADC pins
 
@@ -93,24 +114,6 @@ The code on this repository includes:
 
 ## Disclaimer
 This project involves low-voltage AC signals applied to living tissue. Do not attempt body-based transmission without understanding electrical safety and the associated risks.
-
-# Schematic for Wiring
-
-![alt text](FFT_schematic.png)
-
-
-# Reference Picture 
-
-![alt text](radish.jpg)
-
-Here is a picture of the FFT signal recognition device receiving a signal through a radish. The frequency values can be used with the measurements from a multimeter to calculate the impedance of the radish and other vegetables.
-
-# Video Demonstration
-
-[User Input Demonstration](IMG_3596_compressed.mp4)
-
-[Detected Frequency Demonstration](IMG_3604_compressed.mp4)
-
 
 # 🧑‍🔬 Author
 Jack Shi
