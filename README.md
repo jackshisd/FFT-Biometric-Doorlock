@@ -54,6 +54,8 @@ Reason: Powers of 2 ensure FFT efficiency and accuracy, balancing processing tim
 📊 Experimental Results
 Tested 7+ vegetables from the UCLA dining hall
 
+[Link Text]([https://www.example.com](https://docs.google.com/spreadsheets/d/1GZVQGATylODmYl98VlQH3n5RBUiA5maYAZOY3CioH1s/edit?gid=0#gid=0))
+
 All supported AC signal transmission at 3.3V
 
 Voltage attenuation increased with frequency → capacitive behavior
