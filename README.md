@@ -112,7 +112,7 @@ Here is a picture of the FFT signal recognition device receiving a signal throug
 [Detected Frequency Demonstration](IMG_3604_compressed.mp4)
 
 
-🧑‍🔬 Author
+# 🧑‍🔬 Author
 Jack Shi
 Electrical Engineering @ UCLA
 📫 jackmshi@ucla.edu
