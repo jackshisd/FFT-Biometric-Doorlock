@@ -111,7 +111,7 @@ The code on this repository includes:
 ## Disclaimer
 This project involves low-voltage AC signals applied to living tissue. Do not attempt body-based transmission without understanding electrical safety and the associated risks.
 
-# 🧑‍🔬 Author
+# Author
 Jack Shi
 Electrical Engineering @ UCLA
-📫 jackmshi@ucla.edu
+jackmshi@ucla.edu
